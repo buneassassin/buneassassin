@@ -1,7 +1,8 @@
+##
 <div align="center">
 <h1 align="center">Hola, soy Bune👋</h1>
 </div>
-## Tecnologies:
+Tecnologies:
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=3DDC84)]()
 </br>
 [![C#](https://img.shields.io/badge/C_Sharp-007396?style=for-the-badge&logo=csharp&logoColor=white&labelColor=007396)]()
