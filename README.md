@@ -1,7 +1,6 @@
-⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘
 
 <p align="center">
-<a href="https://mi-sitio.com"><img src="https://i.pinimg.com/236x/3d/83/77/3d8377d30835352fd6a1ddd4f04dd1d6.jpg" alt="Mi Badge"></a>
+<a href="https://mi-sitio.com"><img src="https://img1.picmix.com/output/stamp/normal/9/7/6/1/2391679_c54c1.gif" alt="Mi Badge"></a>
 </p>
 
 
