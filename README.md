@@ -1,8 +1,7 @@
 
-##
 <h1 align="center">Hola, soy Bune</h1>
 
-<h2>Tecnologies:
+#### Tecnologies:
 
 [![js](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)]()
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)]()
@@ -35,7 +34,7 @@
 </p>
 
 
-<h2>Status:
+#### Status
   
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=buneassassin&theme=light&hide_border=false" /> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=buneassassin&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=buneassassin&layout=compact&theme=buefy&hide_border=true" /></a> 
 | ------------- | ------------- | ------------- |
