@@ -1,7 +1,6 @@
+# 💫 Soy Bune
 
-<h1 align="center">Hola, soy Bune</h1>
-
-#### Tecnologies:
+## Tecnologies:
 
 [![js](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)]()
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)]()
@@ -28,16 +27,18 @@
 [![PAPA](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)]()
 
 
+#
+<p align="center"><img src="https://mymodernmet.com/wp/wp-content/uploads/2019/10/nasa-black-hole-visualization-1.gif" alt="Mi Badge"></p>
 
-<p align="center">
-<img src="https://mymodernmet.com/wp/wp-content/uploads/2019/10/nasa-black-hole-visualization-1.gif" alt="Mi Badge">
-</p>
+#
 
-
-#### Status
+# 📊 GitHub Status:
   
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=buneassassin&theme=dark&hide_border=false" /> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=buneassassin&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=buneassassin&layout=compact&theme=dark&hide_border=true" /></a> 
 | ------------- | ------------- | ------------- |
 
+## 🏆 GitHub Trofeos:
+
+![](https://github-profile-trophy.vercel.app/?username=buneassassin&theme=onestar&no-frame=false&no-bg=false&margin-w=4)
 
 
