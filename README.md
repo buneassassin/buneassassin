@@ -33,7 +33,7 @@
 
 
 #
-<p align="center"><img src="https://mymodernmet.com/wp/wp-content/uploads/2019/10/nasa-black-hole-visualization-1.gif" alt="Mi Badge"></p>
+<p align="center"><img src="https://i.gifer.com/5UdL.gif" style="height: 60%; width: 50%;" alt="Mi Badge"></p>
 
 #
 
